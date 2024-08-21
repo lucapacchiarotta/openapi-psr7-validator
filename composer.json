@@ -1,5 +1,5 @@
 {
-    "name": "league/openapi-psr7-validator",
+    "name": "lucapacchiarotta/openapi-psr7-validator",
     "description": "Validate PSR-7 messages against OpenAPI (3.0.2) specifications \nexpressed in YAML or JSON",
     "keywords": [
         "OpenAPI",
@@ -9,6 +9,7 @@
     ],
     "homepage": "https://github.com/thephpleague/openapi-psr7-validator",
     "license": "MIT",
+    "version": "0.1.0",
     "type": "library",
     "autoload": {
         "psr-4": {
